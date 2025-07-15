@@ -1,7 +1,7 @@
 #  Wallet Credit Score Analysis
 
 ## Score Distribution
-![Score Distribution](score_distribution.png)
+![Score Distribution](plot.png)
 
 ## Key Findings
 ### 🟢 Trusted Wallets (800-1000)
