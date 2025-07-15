@@ -1,4 +1,4 @@
-# 🏦 Wallet Credit Score Analysis
+#  Wallet Credit Score Analysis
 
 ## Score Distribution
 ![Score Distribution](score_distribution.png)
